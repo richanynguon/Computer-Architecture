@@ -290,6 +290,9 @@ c = Foo()
 c.run()
 ```
 
+
+----- End of Day 2
+
 ## Step 10: Implement System Stack
 
 All CPUs manage a _stack_ that can be used to store information temporarily.
