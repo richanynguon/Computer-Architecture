@@ -354,6 +354,8 @@ If you run `python3 ls8.py examples/call.ls8` you should see the output:
 60
 ```
 
+--- End of Day 3
+
 ## Stretch Goal: Timer Interrupts
 
 Add interrupts to the LS-8 emulator.
